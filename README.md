@@ -173,30 +173,32 @@ Frontend will run on `http://localhost:3000`
 ### 1. Home Page - Hero Section
 The landing page features a captivating hero section with calls-to-action for "Get Started" and "Learn More", followed by a grid of key features that users can explore.
 
-**[Add Screenshot: Homepage with hero section and features grid]**
+**[!![alt text](image-1.png)]**
 
 ### 2. Dashboard - User Central Hub
 The dashboard provides a personalized welcome message, displays key metrics (buddy requests, messages, alerts, active trips), and offers quick action buttons for core features.
 
-**[Add Screenshot: Dashboard with personalized greeting, metrics, and action buttons]**
+**[![alt text](image-2.png)]**
 
 ### 3. Travel Experiences - Community Blog
 Users can browse travel stories shared by other women travelers, filter by destination, like/comment on posts, and share their own experiences.
 
-**[Add Screenshot: Travel experience feed showing blog cards with likes and comments]**
+**[![alt text](image-3.png)]**
 
 ### 4. Buddy Finder - Connect with Travelers
 This page allows women to search for travel buddies by destination, view verified profiles, and send buddy requests to travelers with overlapping itineraries.
 
-**[Add Screenshot: Buddy finder showing verified traveler cards with profiles]**
+**[![alt text](image-4.png)]**
 
----
+### 5. Demo Video :
 
-## 🎥 Demo Video
+![alt text](image-5.png)
 
-**[Add Demo Video Link Here]**
-
-Example structure: https://youtu.be/your-demo-video
+-👤 User signup, email verification, and government ID verification
+- 📅 Posting a travel plan with destination and dates
+- 👯 Finding and connecting with travel buddies
+- 💬 Using the AI chatbot for safety tips
+- ✍️ Sharing a travel experience and engaging with community
 
 ### Demo Highlights:
 - 👤 User signup, email verification, and government ID verification
